@@ -1,4 +1,4 @@
 package tech.biuldrun.spotify.client;
 
-public class AlbumResponse {
+public interface ArtistSpotifyClient {
 }
