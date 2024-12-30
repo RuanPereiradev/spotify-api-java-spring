@@ -108,10 +108,12 @@ src/main/java/tech/biuldrun/spotify
 |   |-- LoginResponse.java       
 
 ```
-![Captura de tela de 2024-12-30 11-28-24](https://github.com/user-attachments/assets/e7b9d739-fb5b-4b02-a6d5-2feb61664e6b)
 
 
 ### Database Overview  
+
+
+![Captura de tela de 2024-12-30 11-28-24](https://github.com/user-attachments/assets/e7b9d739-fb5b-4b02-a6d5-2feb61664e6b)
 
 The database supports the core features of the system, including user authentication, music content management, and user interactions with albums and songs. Below is a summary of its structure:  
 
